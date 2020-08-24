@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" namespace="/Events/" folder="/Events/" name="AddApplicantEnd" description="This event is used to to trigger add applicant process is ended" GUID="AE37E085-4F78-216F-27C8-86523843966F" ownerProjectName="OrderManagement" superEventPath="" ttlUnits="Seconds">
+  <properties name="message" ownerProjectName="OrderManagement" ownerPath="/Events/AddApplicantEnd"/>
+  <expiryAction name="AddApplicantEnd_expiryAction" ownerProjectName="OrderManagement" actionText="" conditionText="">
+    <symbols>
+      <symbolList idName="addapplicantend" type="/Events/AddApplicantEnd"/>
+    </symbols>
+  </expiryAction>
+</event:SimpleEvent>

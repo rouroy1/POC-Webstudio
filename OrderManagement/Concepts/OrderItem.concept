@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element:Concept xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:element="http:///com/tibco/cep/designtime/core/model/element" namespace="/Concepts/" folder="/Concepts/" name="OrderItem" description="This concept holds the order item data" GUID="E301E716-686F-9F02-A298-20FBC5A83407" ownerProjectName="OrderManagement" superConceptPath="/Concepts/Item" autoStartStateMachine="true">
+  <extendedProperties/>
+</element:Concept>

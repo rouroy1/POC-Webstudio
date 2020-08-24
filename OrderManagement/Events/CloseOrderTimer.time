@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event:TimeEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" namespace="/Events/" folder="/Events/" name="CloseOrderTimer" description="This is timer event to close the order" GUID="C0F0A7A5-7551-1A77-9FB0-34CE72CCC715" ownerProjectName="OrderManagement" type="TimeEvent" superEventPath=""/>
